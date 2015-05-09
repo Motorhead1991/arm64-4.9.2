@@ -1,0 +1,9 @@
+GCC 4.9.2
+Binutils 2.24
+Linux 3.17 headers
+mpc 1.0.2
+mpfr 3.1.2
+cloog 0.18.1
+glibc 2.20
+gmp 6.0.0a
+isl 0.12.2
